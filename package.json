@@ -2,7 +2,7 @@
   "name": "filmes_lib",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://thiagofkoenigkan.github.io/filmes_lib",
+  "homepage": "https://thiagofkoenigkan.github.io/filmes_lib/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
